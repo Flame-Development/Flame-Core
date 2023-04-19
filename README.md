@@ -6,7 +6,7 @@ Simply go to [The Latest Release](https://github.com/Flame-Development/Flame-Cor
 
 After installing just run the server, this should spawn a Flame-Core folder in plugins folder
 
-When you successfully installed the plugin, you'll see a file named confif.yml
+When you successfully installed the plugin, you'll see a file named config.yml
 
 <details>
 
