@@ -18,7 +18,7 @@ When you successfully installed the plugin, you'll see a file named confif.yml
 </details>
 
 ```
-- This application is under MIT License & you cant resell this plugin-
+- This application is under MIT License & you cant resell this plugin -
 ```
 
 
