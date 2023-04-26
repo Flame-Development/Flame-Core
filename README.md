@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+
 # 🔥 Flame-Core
 Flame-Core Is A Utility Core That Adds Useful Commands And Features To The Game.
 
